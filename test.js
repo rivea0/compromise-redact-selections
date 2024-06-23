@@ -6,7 +6,7 @@
  */
 
 import assert from 'node:assert/strict';
-import { before, describe, it } from 'node:test';
+import { describe, it } from 'node:test';
 import nlp from 'compromise';
 
 describe('plugin-modify.js', () => {
